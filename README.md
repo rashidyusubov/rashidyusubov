@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+Welcome!+I'm+Rashid.)](https://git.io/typing-svg)
+<h1>Hi there, Welcome! I'm Rashid.</h1>
 <img src="https://github.com/Rashid-Yusubov/Rashid-Yusubov/assets/123075706/f2fbf520-dfaa-47a0-b670-0bf2ca8d1465" />
 <h1>О себе</h1>
-<a></a>Меня зовут Рашид, и я студент IT-направления в РТУ МИРЭА. Мне нравится решать сложные задачи и создавать что-то новое, поэтому я выбрал программирование. Я увлекаюсь разработкой на C++, Python, HTML и CSS, и всегда стремлюсь узнавать что-то новое. Мне нравится применять свои навыки для решения реальных проблем и создания полезных продуктов. Я всегда открыт для новых проектов и идей, и с нетерпением жду возможности применить свои навыки на практике.</a> 
+<a></a>My name is Rashid, and I am an IT student at RTU MIREA. I like solving complex problems and creating something new, so I chose programming. I am passionate about developing in C++, Python, HTML and CSS, and I always strive to learn something new. I like to apply my skills to solve real problems and create useful products. I'm always open to new projects and ideas, and I'm looking forward to putting my skills into practice.</a> 
